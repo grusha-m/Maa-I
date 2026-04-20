@@ -45,4 +45,4 @@ Experience the voice-first interface and 24-week pregnancy journey:
 **[View Interactive Prototype](https://maa-sakhi-voice.lovable.app/)**
 
 ---
-*Developed as a Product Management portfolio project focused on Healthcare AI and Social Impact.*
+*Developed as a PM portfolio project focused on Healthcare AI and Social Impact.*
