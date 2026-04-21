@@ -37,7 +37,7 @@ Maa-I moves beyond static information retrieval to provide a proactive health ec
 
 ## 🔗 Live Prototype
 **[View Interactive Prototype](https://maa-sakhi-voice.lovable.app/)**
-<img width="691" height="586" alt="image" src="https://github.com/user-attachments/assets/2d279002-2c65-44bd-ae2a-cfe9ffc9dd08" /> <img width="691" height="586" alt="image" src="https://github.com/user-attachments/assets/f5598989-1137-4782-9bab-57396eafe7b8" />
+<img width="691" height="486" alt="image" src="https://github.com/user-attachments/assets/2d279002-2c65-44bd-ae2a-cfe9ffc9dd08" /> <img width="691" height="486" alt="image" src="https://github.com/user-attachments/assets/f5598989-1137-4782-9bab-57396eafe7b8" />
 
 
 
