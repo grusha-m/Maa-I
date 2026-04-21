@@ -12,7 +12,7 @@ In many underserved communities, reliable health information fails to reach the 
 
 ## 🚀 The Solution: A "Continuous Care" Model
 Maa-I moves beyond static information retrieval to provide a proactive health ecosystem:
-<img width="1255" height="998" alt="image" src="https://github.com/user-attachments/assets/cc1fd082-df1a-4d85-89fa-c32420023911" />
+<img width="655" height="498" alt="image" src="https://github.com/user-attachments/assets/cc1fd082-df1a-4d85-89fa-c32420023911" />
 
 ### 1. AI-Enabled Voice Assistance (Active Querying)
 A natural language interface that allows users to speak their symptoms or concerns and receive immediate, reliable medical guidance.
@@ -26,7 +26,7 @@ An AI-powered triage engine that detects high-risk symptoms and triggers immedia
 ### 4. Postpartum & Infant Care
 Extends support for two years following birth, tracking infant growth milestones and providing maternal mental health guidance.
 
-<img width="1991" height="1986" alt="Key features-1" src="https://github.com/user-attachments/assets/4998aad8-7796-45d5-927c-a7019cf45fa4" />
+<img width="691" height="586" alt="Key features-1" src="https://github.com/user-attachments/assets/4998aad8-7796-45d5-927c-a7019cf45fa4" />
 
 ## 👥 User Personas & Impact
 * **The Rural Mother:** Receives life-saving guidance in her own language without needing to read or write.
